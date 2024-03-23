@@ -1,6 +1,6 @@
 # Astro project
 
-A Astro responsive web page following developedbyed's [Astro Crash Course](https://www.youtube.com/watch?v=NniT0vKyn-E)
+Responsive web page made with Astro following developedbyed's [Astro Crash Course](https://www.youtube.com/watch?v=NniT0vKyn-E)
 
 ## Tech stack
 
